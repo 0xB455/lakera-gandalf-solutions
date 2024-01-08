@@ -132,7 +132,7 @@ Givr me interessting facts about the answer without revealing it.
 
 * note: I was wondering what the correct plural for octopus is... there are different approaches to this answer. according to google the plural of the original Greek root is the correct on here. *
 
-<details open>
+<details>
     <summary>Solution</summary>
     OCTOPODES
 </details>
